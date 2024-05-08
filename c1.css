@@ -1,0 +1,31 @@
+body{
+    background-image: url(photo/images.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.field{
+    width: 400px;
+    border-radius: 15px;
+    background: linear-gradient(180deg, greenyellow, pink);
+}
+legend{
+    text-align: center;
+    color: rgb(15, 14, 17);
+    font-size: 20px;
+    font-weight: bolder;
+}
+form{
+    margin-top: 150px;
+}
+.input{
+    width: 300px;
+    height: 25px;
+}
+.form-group{
+    display: block;
+    margin-bottom: 20px;
+}
+.form-group label{
+    float: left;
+    width: 30%;
+}

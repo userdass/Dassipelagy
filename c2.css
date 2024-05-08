@@ -1,0 +1,20 @@
+.table{
+    width: 2500px;
+}
+body{
+    background-color: lawngreen;
+}
+h1{
+    color: blue;
+    
+}
+#T{
+    color: rgb(216, 112, 193);
+}
+h2{
+    color: rgb(0, 4, 255);
+    
+}
+th{
+    color: black;
+}
